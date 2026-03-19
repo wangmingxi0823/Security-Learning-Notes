@@ -1,0 +1,5 @@
+1.查看用户权限：id、sudo -l；
+2.日志查看：tail -f /var/log/syslog；
+3.进程管理：ps aux、top
+4.文件权限管理：chmod、chown；
+5.网络状态查看：netstat、ss。
