@@ -1,0 +1,5 @@
+已系统学习Kali Linux核心工具课程，
+掌握SQLMap自动化注入、
+Netdiscover内网探测、
+Hydra暴力破解与Metasploit渗透框架的原理与实操，
+能独立完成从信息收集到漏洞利用的全流程测试。
